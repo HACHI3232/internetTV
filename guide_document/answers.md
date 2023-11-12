@@ -1,4 +1,4 @@
-1. エピソード視聴数トップ3のエピソードタイトルと視聴数を取得するクエリ:
+1. エピソード視聴数トップ3のエピソードタイトルと視聴数を取得するクエリ
 
 ```sql
 SELECT Episodes.episode_title, ViewCounts.view_count
@@ -9,7 +9,7 @@ LIMIT 3;
 
 ```
 
-2. エピソード視聴数トップ3の番組情報とシーズン情報を含むクエリ:
+2. エピソード視聴数トップ3の番組情報とシーズン情報を含むクエリ
 
 ```sql
 SELECT Programs.program_title, Seasons.season_number, Episodes.episode_number, Episodes.episode_title, ViewCounts.view_count
@@ -52,7 +52,7 @@ ORDER BY ProgramSlots.start_time;
 
 ```
 
-5. 直近一週間で最も見られた番組のクエリ:
+5. 直近一週間で最も見られた番組のクエリ
 
 ```sql
 SELECT Programs.program_title, SUM(ViewCounts.view_count) AS total_view_count
@@ -65,4 +65,3 @@ ORDER BY total_view_count DESC
 LIMIT 2;
 
 ```
-

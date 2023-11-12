@@ -117,4 +117,4 @@ mysql> SHOW TABLES;
 8 rows in set (0.00 sec)
 ```
 
-テーブルの構築ができましたね！[STEP3](guide_document/step1.md)でサンプルデータを挿入していきましょう！
+テーブルの構築ができましたね！[STEP3](step3.md)でサンプルデータを挿入していきましょう！

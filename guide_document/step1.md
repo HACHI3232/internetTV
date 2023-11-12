@@ -28,4 +28,4 @@ USE internet_tv;
 ```
 Database changedと出れば切り替え完了です！
 
-[STEP2](Guide Document/step2.md)へ進みましょう！
+[STEP2](guide_document/step2.md)へ進みましょう！

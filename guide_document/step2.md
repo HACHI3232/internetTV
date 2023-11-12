@@ -87,7 +87,7 @@ mysql> DESCRIBE Program;
 
 ### チャレンジ
 
-[テーブル設計](specification/table_design.md)を開いて下記のサンプルデータを実際に打ち込んで入れてみましょう。
+[テーブル設計](database_design/table_design.md)を開いて下記のサンプルデータを実際に打ち込んで入れてみましょう。
 
 Seasons Table,Episodes Table,Genres Table,ProgramSlots Table,ViewCounts Table,ProgramGenres Table
 
@@ -117,4 +117,4 @@ mysql> SHOW TABLES;
 8 rows in set (0.00 sec)
 ```
 
-テーブルの構築ができましたね！[STEP3](Guide Document/step1.md)でサンプルデータを挿入していきましょう！
+テーブルの構築ができましたね！[STEP3](guide_document/step3.md)でサンプルデータを挿入していきましょう！

@@ -62,7 +62,6 @@
 
 # ER図
 
-![Alt text](ER_en.png)
+![Alt text](er_en.png)
 
-
-![Alt text](ER_jp.png)
+![Alt text](er_jp.png)

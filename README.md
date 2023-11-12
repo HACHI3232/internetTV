@@ -20,14 +20,14 @@
 
 ## インターネットTVについて
 
-- [テーブル設計](specification/table_design.md)
+- [テーブル設計](database_design/table_design.md)
 
-- [インターネットTVの仕様](specification/internet_tv.md)
+- [インターネットTVの仕様](database_design/internet_tv.md)
 
 # 実践
 
-[STEP1](Guide Document/step1.md)
+[STEP1](guide_document/step1.md)
 
-[STEP2](Guide Document/step2.md)
+[STEP2](guide_document/step2.md)
 
-[STEP3](Guide Document/step1.md)
+[STEP3](guide_document/step1.md)

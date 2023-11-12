@@ -87,7 +87,7 @@ mysql> DESCRIBE Program;
 
 ### チャレンジ
 
-[テーブル設計](database_design/table_design.md)を開いて下記のサンプルデータを実際に打ち込んで入れてみましょう。
+[テーブル設計](/database_design/table_design.md)を開いて下記のサンプルデータを実際に打ち込んで入れてみましょう。
 
 Seasons Table,Episodes Table,Genres Table,ProgramSlots Table,ViewCounts Table,ProgramGenres Table
 
